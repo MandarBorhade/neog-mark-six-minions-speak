@@ -79,11 +79,14 @@ textarea {
     padding: 16px;
     border: 1px solid;
     border-radius: 10px;
+    height: 30vh;
 }
 
 footer {
     background-color: #F2C73E;
     padding: 16px;
+    display: flex;
+    justify-content: center;
 }
 
 
