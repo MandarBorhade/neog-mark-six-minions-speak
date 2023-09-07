@@ -51,6 +51,7 @@ main {
 
 button {
     padding: 8px 16px;
+    color: black;
     font-size: 16px;
     cursor: pointer;
     background-color: transparent;
@@ -79,7 +80,6 @@ textarea {
     padding: 16px;
     border: 1px solid;
     border-radius: 10px;
-    height: 30vh;
 }
 
 footer {
